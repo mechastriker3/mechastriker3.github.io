@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1d62a263015c7cfdeafaeb4f8d61861",
+    "revision": "b4571b0a1499b24a507f211e2e08603a",
     "url": "/index.html"
   },
   {
-    "revision": "7afd26ddd2ad0c714798",
+    "revision": "05d3af3dc83abe4c4e5e",
     "url": "/static/css/main.f5497eb8.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b4648959.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7afd26ddd2ad0c714798",
-    "url": "/static/js/main.6cc7a407.chunk.js"
+    "revision": "05d3af3dc83abe4c4e5e",
+    "url": "/static/js/main.0b667a71.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
     "url": "/static/js/runtime-main.554504a0.js"
   },
   {
-    "revision": "27e79de0a4b1b9c98ed7ef4849e69d68",
-    "url": "/static/media/bfe_logo.27e79de0.png"
+    "revision": "bf739d8d8d453065491c93fac0bccb75",
+    "url": "/static/media/bfe_logo.bf739d8d.png"
   },
   {
     "revision": "4d745831df8209c4d36a91a68f49e889",
